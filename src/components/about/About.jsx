@@ -14,7 +14,7 @@ const About = () => {
         <div className="about__data">
           <Info />
           <p className="about__description">
-            Backend developer, I create API, database models, I have years of
+            FullStack developer, I create API, database models, I have years of
             experience and many clients happy with the projects carried out.
           </p>
           <a download="" href={CV} className="button button--flex">
